@@ -4,7 +4,7 @@
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | [숫자야구](https://github.com/PrismSpirit/ios-number-baseball/tree/ic_11_prism) | 2023-12-31 <br> ~ 2024-01-03 | Git, Flow Chart | |
 | 2 | [묵찌빠 게임](https://github.com/kkomgi/ios-rock-paper-scissors/tree/1c_11_hamzzi) | 2024-01-08 <br> ~ 2024-01-12 | Control Flow, Enumeration | |
-| 3 | [쥬스 메이커](https://github.com/Diana-yjh/ios-juice-maker/tree/step2) | 2024-01-15 <br> ~ 2024-02-02 | Error Handling, Singleton, MVC | |
+| 3 | [쥬스 메이커](https://github.com/Diana-yjh/ios-juice-maker/tree/step2) | 2024-01-15 <br> ~ 2024-02-02 | Error Handling, Singleton, MVC | [🥤](https://github.com/forseaest/ios-juice-maker-refactoring) |
 | 4 | [계산기](https://github.com/forseaest/ios-calculator-app/tree/step2) | 2024-02-05 <br> ~ 2024-02-23 | Queue, LinkedList | |
 | 5 | [만국박람회](https://github.com/forseaest/ios-exposition-universelle/tree/step2) | 2024-03-04 <br> ~ 2024-03-15 | TableView, JSON | |
 | 6 | [은행창구 매니저](https://github.com/forseaest/ios-bank-manager/tree/step2) | 2024-03-18 <br> ~ 2024-03-29 | GCD, Concurrency | |
